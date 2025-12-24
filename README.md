@@ -93,8 +93,6 @@ Ed-Tech-Backend/
 ├── package-lock.json
 └── .gitignore
 
-yaml
-Copy code
 
 ---
 
@@ -117,8 +115,6 @@ MAIL_HOST=smtp.gmail.com
 MAIL_USER=your_email
 MAIL_PASS=your_app_password
 
-yaml
-Copy code
 
 ⚠️ **Do not commit `.env` files to GitHub**
 
@@ -167,8 +163,6 @@ GitHub: https://github.com/Ritabrata-Mandal
 
 ⭐ If you like this project, feel free to star the repository!
 
-yaml
-Copy code
 
 ---
 
